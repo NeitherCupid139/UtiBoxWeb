@@ -33,7 +33,7 @@
       </router-link>
     </div>
     <div class="navbar-end">
-      <a class="btn rounded-full py-3 px-6">下载</a>
+      <a href="https://pan.quark.cn/s/60fff6aa3e2f#/list/share" class="btn rounded-full py-3 px-6">下载</a>
     </div>
   </div>
 </template>
